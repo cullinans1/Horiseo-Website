@@ -9,4 +9,4 @@ Link to the website:
 
 The following are screenshots of the website
 
-![Screenshot of website] (/assets/images/horiseon1.png)
+![] (assets/images/horiseon1.png)
