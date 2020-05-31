@@ -9,4 +9,4 @@ Link to the website:
 
 The following are screenshots of the website
 
-    ![Screenshot of website] (/desktop/horiseon1.png)
+![Screenshot of website] (/Desktop/horiseon1.png)
