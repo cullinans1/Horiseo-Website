@@ -9,4 +9,8 @@ Link to the website:
 
 The following are screenshots of the website
 
-![] (assets/images/horiseon1.png)
+![](assets/images/horiseon1.png)
+
+![](assets/images/horiseon2.png)
+
+![](assets/images/horiseon3.png)
